@@ -1,5 +1,5 @@
 
-## Getting Started
+## Iniciar Aplicação
 
 ``npm install``
 
@@ -7,3 +7,6 @@
 
 ``npm start``
 
+## Sobre
+
+Essa aplicação consiste em uma clonagem do front-end do site do TikTok.
